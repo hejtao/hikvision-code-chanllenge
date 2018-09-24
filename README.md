@@ -27,3 +27,6 @@ simpleai==0.8.1
 tensorflow==1.7.0
 注意，由于正式评测时每位选手只有8核16G的单台服务器，请谨慎使用机器学习框架中的分布式功能。
 ```
+#### 6、赛题介绍
+```
+ [参见官网](http://codechallenge.hikvision.com/topic_introd.aspx?k1=6)。
